@@ -1,0 +1,16 @@
+.skipButton {
+  height: 30pt;
+  font-size: large;
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  z-index: 10;
+}
+
+.selectableListItem {
+  cursor: pointer;
+}
